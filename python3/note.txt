@@ -1,0 +1,1 @@
+Run command "sniffer" to have autotesting.
